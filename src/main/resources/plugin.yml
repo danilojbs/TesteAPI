@@ -1,0 +1,3 @@
+name: TesteAPI
+version: '${project.version}'
+main: fire.sc.testeapi.TesteAPI
